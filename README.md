@@ -1,10 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=24&height=200&text=Welcome%20to%20Codohee%20🌷&fontSize=50&fontColor=ffffff&section=header)
 
-Hi 👋, I'm CODOHEE</h1>
->A PASSIONATE CS teacher from South Korea</h3>
+<h1 align="left">Hi 👋, I'm Codohee</h1>
+<h3 align="left">A CS teacher from South Korea 🇰🇷</h3>
 
-- 🌱 I’m currently learning **Educational Technology & Data Science**
+- 🌱 Currently learning **Educational Technology & Data Science**
+- 📫 Reach me at **ehgml910@snu.ac.kr**
 
-- 📫 How to reach me **ehgml910@snu.ac.kr**
-- 
 ![footer](https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=24&height=200&fontColor=ffffff&section=footer)
