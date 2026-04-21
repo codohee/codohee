@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=24&height=200&text=Dohee%20🌷&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&text=Hello!&fontSize=60&fontColor=ffffff&animation=twinkling)
 
 
 <h1 align="center">Hi 👋, I'm CODOHEE</h1>
