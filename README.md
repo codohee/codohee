@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h1>I'm Dohee Han 👩‍💻</h1>
+<h1>Dohee Han 👩‍💻</h1>
 <h3>A CS teacher from South Korea 🇰🇷</h3>
 
 🌱 Currently learning **Educational Technology & Data Science**
