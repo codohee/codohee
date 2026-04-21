@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&text=Hi%2C%20I'm%20Codohee%20🌷&fontSize=50&fontColor=ffffff&section=header)
+<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=20&height=200&text=Hi%2C%20I'm%20Codohee%20🌷&fontSize=50&fontColor=ffffff&section=header&fontAlign=50&fontAlignY=40" width="100%"/>
 
 <div align="center">
 
@@ -11,4 +11,4 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=150&fontColor=ffffff&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=20&height=200&section=footer" width="100%"/>
